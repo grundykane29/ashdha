@@ -1,4 +1,5 @@
 .git
+.gitignore
+Dockerfile
+.dockerignore
 node_modules
-tmp
-log
